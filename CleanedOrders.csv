@@ -1,0 +1,6 @@
+Order_Id,Order_Date,Region,Customer_Id,Segment,Category,Sub_Category,Quantity,Unit_Price,Discount,Net_Revenue,Profit,Return_Flag
+1003,06-05-2023,East,103,Home Office,Electronics,Monitors,1,12000,0.15,10200,1800,Yes
+1004,06-07-2023,West,104,Consumer,Office Supplies,Stationery,2,1000,0.05,1900,500,Yes
+1001,06-01-2023,North,101,Consumer,Electronics,Accessories,1,1500,0.05,1425,375,No
+1001,06-01-2023,North,101,Consumer,Electronics,Computers,2,50000,0.1,90000,20000,No
+1002,06-03-2023,South,102,Corporate,Furniture,Chairs,3,7000,0,21000,6300,No
